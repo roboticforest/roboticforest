@@ -24,6 +24,8 @@ The best way to contact me at the moment is through my [professional GMail](mail
 
 ## Past Projects
 
+[This repo](https://github.com/roboticforest/touchboard-pro) describes TouchBoard Pro, the first commercial program I helped engineer.
+
 [This repo](https://github.com/roboticforest/school-work-graveyard/tree/main/wu-python-final-project) describes my final project for a Python 3 class.
 
 ~~This repo~~ (coming soon) describes my final project for a Haskell class.
