@@ -28,10 +28,12 @@ The best way to contact me at the moment is through my [professional GMail](mail
 
 [This repo](https://github.com/roboticforest/school-work-graveyard/tree/main/wu-python-final-project) describes my final project for a Python 3 class.
 
-~~This repo~~ (coming soon) describes my final project for a Haskell class.
+[This repo](https://github.com/roboticforest/school-work-graveyard/tree/main/wu-haskell-final-project) describes my final project for a Haskell class.
+
 <!--
 And, [here is all the rest](https://github.com/roboticforest/school-work-graveyard) of my college work, both from PCC and WU.
 -->
+
 ## Current Projects
 
 If you want to see progress on my game engine check out my [tumblr blog](https://www.tumblr.com/blog/rfgameproject) about it.
