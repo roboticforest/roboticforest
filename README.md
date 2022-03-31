@@ -1,49 +1,25 @@
 # About Me
 
-Greetings all!
-
 I'm Robotic Forest. 🤖🌲 You can call me Rob. or Forest, but most people call me Dave.
-
-I taught myself QBasic, C++, and HTML4 back in 1999 as a kid, kept improving and learning, and just graduated from Willamette University with a BA in Computer Science! 🥳
-
-## Contacting Me
-
-My [professional Gmail](mailto:david.c.vitez@gmail.com) is the best way to contact me at the moment.
-
-You can also find me elsewhere on the greater interwebs as RoboticForest:  
-[Stack Overflow](https://stackoverflow.com/users/9006830/roboticforest)  
-[DeviantArt](https://www.deviantart.com/roboticforest)  
-[Tumblr](https://www.tumblr.com/blog/roboticforest)
 
 ---
 
 # My Projects
 
-## Current Projects
+2D Game Engine **(private repo)**. Read a about it [on tumblr](https://www.tumblr.com/blog/rfgameproject).  
+![Install Demo](https://github.com/roboticforest/roboticforest/blob/main/github-media/install-demo.gif)
 
-### Game Engine
+[Shape Clicker Game](https://github.com/roboticforest/school-work-graveyard/tree/main/wu-python-final-project)  
+![Gameplay Demo](https://github.com/roboticforest/school-work-graveyard/blob/main/wu-python-final-project/github-media/gameplay-demo-converted-by-ezgif.com-gif-maker.gif "Gameplay Demo")
 
-Around college I've been working on a C++ and [SDL2](http://libsdl.org/) based game engine (in a private repo). Since starting the project I've learned *a lot* about CMake and a decent amount about git and GitHub too. I plan to continue working on my engine indefinitely, and with it being for my own personal skill improvement I'm not sure yet if I want to eventually open source it.
+[Text Adventure](https://github.com/roboticforest/school-work-graveyard/tree/main/wu-python-final-project)  
+![Gameplay Demo](https://github.com/roboticforest/school-work-graveyard/blob/main/wu-python-project-5/github-media/gameplay-demo.gif "Gameplay Demo")
 
-That said, I *did* get permission to continue work on my game engine for my university thesis and you can [read my report](http://hdl.handle.net/10177/6916) on Willamette University's Academic Commons archive.
+[Functional Graphics](https://github.com/roboticforest/school-work-graveyard/tree/main/wu-haskell-final-project)  
+![An image of a solar system.](https://github.com/roboticforest/school-work-graveyard/blob/main/wu-haskell-final-project/github-media/Planets.png "Planets")
 
-I've made a [secondary Tumblr blog](https://www.tumblr.com/blog/rfgameproject) where I periodically post progress notes.
-
-### Personal Website
-
-I have a [website](http://www.roboticforest.com) and am currently rebuilding it from scratch. I threw one together in haste back when I first bought hosting and now I'm trying to make it look much nicer. Like my game engine I've been picking at it in my spare time around much more important work.
-
-## Past Projects
-
-[This repo](https://github.com/roboticforest/touchboard-pro) describes TouchBoard Pro, the first commercial program I helped engineer.
-
-[This repo](https://github.com/roboticforest/school-work-graveyard/tree/main/wu-python-final-project) describes my final project for a Python 3 class.
-
-[This repo](https://github.com/roboticforest/school-work-graveyard/tree/main/wu-haskell-final-project) describes my final project for a Haskell class.
-
-<!--
-And, [here is all the rest](https://github.com/roboticforest/school-work-graveyard) of my college work, both from PCC and WU.
--->
+[TouchBoard Pro 3.0](https://github.com/roboticforest/touchboard-pro) (abandonware)  
+![User Interface](https://github.com/roboticforest/touchboard-pro/blob/master/media/controls.png)
 
 <!---
 roboticforest/roboticforest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
