@@ -1,9 +1,3 @@
-# About Me
-
-I'm Robotic Forest. 🤖🌲 You can call me Rob. or Forest, but most people call me Dave.
-
----
-
 # My Projects
 
 2D Game Engine **(private repo)**. Read a about it [on tumblr](https://www.tumblr.com/blog/rfgameproject).  
