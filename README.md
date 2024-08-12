@@ -1,7 +1,7 @@
 # My Projects
 
 Rapidly test out your SDL2 ideas using my [Gold Cartridge](https://github.com/roboticforest/gold-cartridge) template project.  
-![Sample Demo App](https://github.com/roboticforest/roboticforest/blob/main/github-media/GC_Demo.gif)
+![Sample Demo App](https://github.com/roboticforest/roboticforest/blob/main/github-media/gc-demo.gif)
 
 2D Game Engine **(private repo)**. Read a about it [on tumblr](https://www.tumblr.com/blog/rfgameproject).  
 ![Install Demo](https://github.com/roboticforest/roboticforest/blob/main/github-media/install-demo.gif)
